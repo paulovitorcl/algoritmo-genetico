@@ -11,6 +11,16 @@ source myenv-ag/bin/activate
 
 ## Execução
 
+
+```
+python first_problem.py (Revisar) 
+
+python analyze_results.py (Revisar)
+
+python plot.py (Revisar)
+```
+
+
 ```
 python main.py 
 

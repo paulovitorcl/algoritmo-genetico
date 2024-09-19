@@ -4,14 +4,28 @@ from genetic_algorithm import GeneticAlgorithm
 from utils import save_results_to_csv
 
 # Configurações para o experimento
+initial_configuration = {
+    'selection_method': 'tournament',        # Método de seleção fixo
+    'crossover_method': 'cyclic',            # Crossover cíclico
+    'mutation_method': 'swap',               # Mutação de troca
+    'reinsertion_method': 'ordered',         # Reinserção ordenada (melhores entre pais e filhos)
+    'crossover_rate': 0.6,                   # Taxa de crossover fixada em 60%
+    'mutation_rate': 0.2                     # Exemplo de taxa de mutação fixada (você pode ajustar)
+}
+
 configurations = [
-    {'selection_method': 'tournament', 'crossover_method': 'cyclic', 'mutation_method': 'swap', 'reinsertion_method': 'ordered'},
-    {'selection_method': 'tournament', 'crossover_method': 'cyclic', 'mutation_method': 'swap', 'reinsertion_method': 'elitism'},
-    # Adicione todas as combinações de configurações possíveis
+    {'selection_method': 'tournament', 'crossover_method': 'cyclic', 'mutation_method': 'swap', 'reinsertion_method': 'ordered'},   # S1-C1-R1
+    {'selection_method': 'tournament', 'crossover_method': 'cyclic', 'mutation_method': 'swap', 'reinsertion_method': 'elitism'},   # S1-C1-R2
+    {'selection_method': 'tournament', 'crossover_method': 'pmx', 'mutation_method': 'swap', 'reinsertion_method': 'ordered'},      # S1-C2-R1
+    {'selection_method': 'tournament', 'crossover_method': 'pmx', 'mutation_method': 'swap', 'reinsertion_method': 'elitism'},      # S1-C2-R2
+    {'selection_method': 'roulette', 'crossover_method': 'cyclic', 'mutation_method': 'swap', 'reinsertion_method': 'ordered'},      # S2-C1-R1
+    {'selection_method': 'roulette', 'crossover_method': 'cyclic', 'mutation_method': 'swap', 'reinsertion_method': 'elitism'},      # S2-C1-R2
+    {'selection_method': 'roulette', 'crossover_method': 'pmx', 'mutation_method': 'swap', 'reinsertion_method': 'ordered'},         # S2-C2-R1
+    {'selection_method': 'roulette', 'crossover_method': 'pmx', 'mutation_method': 'swap', 'reinsertion_method': 'elitism'}          # S2-C2-R2
 ]
 
 def run_experiment(config):
-    population_size = 50
+    population_size = 100
     num_generations = 50
     crossover_rate = 0.8
     mutation_rate = 0.2

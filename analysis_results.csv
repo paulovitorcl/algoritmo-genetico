@@ -1,3 +1,3 @@
 selection_method,crossover_method,mutation_method,reinsertion_method,convergence_rate,average_time
-tournament,cyclic,swap,elitism,21.0,0.10097179174423214
-tournament,cyclic,swap,ordered,31.0,0.10530459165573117
+tournament,cyclic,swap,elitism,21.0,0.10656107664108273
+tournament,cyclic,swap,ordered,18.0,0.11715074539184567
