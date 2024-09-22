@@ -40,12 +40,29 @@ configurations = [
 
 def run_experiment(config, problem):
 
-    # Other configurations
+    # Configurations
     population_size = 100
+
+    # num_generations = 50
+    # crossover_rate = 0.8 1
+    # mutation_rate = 0.2
+
+    # num_generations = 80
+    # crossover_rate = 0.8 4
+    # mutation_rate = 0.2
+
     num_generations = 50
-    crossover_rate = 0.8
+    crossover_rate = 0.6 5
     mutation_rate = 0.2
-    
+
+    # num_generations = 60
+    # crossover_rate = 0.6 2
+    # mutation_rate = 0.1
+
+    # num_generations = 20
+    # crossover_rate = 0.6 3
+    # mutation_rate = 0.05
+
     ga = GeneticAlgorithm(
         population_size=population_size,
         num_generations=num_generations,
@@ -75,7 +92,7 @@ def main():
     # Get the output filename interactively from the user
     #output_filename = input("Enter the desired filename for the results (e.g., experiments_results.csv): ")
 
-    output_filename = "resultados_2/results.csv"
+    output_filename = "resultados_2/results_5.csv"
 
     results = []
     for config in configurations:
