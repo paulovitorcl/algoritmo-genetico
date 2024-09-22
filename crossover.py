@@ -1,3 +1,5 @@
+import random
+
 def cyclic_crossover(parent1, parent2):
     """
     Implementa o crossover cíclico entre dois cromossomos. 

@@ -1,0 +1,7 @@
+selection_method,crossover_method,mutation_method,reinsertion_method,convergence_rate,average_time
+roulette,cyclic,swap,elitism,5.0,0.2703521251678466
+roulette,cyclic,swap,ordered,9.0,0.3076490473747253
+tournament,cyclic,swap,elitism,23.0,0.14853921890258787
+tournament,cyclic,swap,ordered,40.0,0.09915363788604732
+tournament,pmx,swap,elitism,35.0,0.17076895236968992
+tournament,pmx,swap,ordered,34.0,0.16429770708084102

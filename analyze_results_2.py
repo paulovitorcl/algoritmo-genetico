@@ -4,8 +4,8 @@ import sys
 def analyze_results(input_filename, output_filename):
     df = pd.read_csv(input_filename)
 
-    # Calcule o percentual de convergência e tempo médio de execução
-    analysis = df.groupby(['selection_method', 'crossover_method', 'mutation_method', 'reinsertion_method']).agg(
+    # Calcule o percentual de convergência e tempo médio de execução por problema
+    analysis = df.groupby('problem').agg(
         convergence_rate=('converged', lambda x: (x.sum() / len(x)) * 100),
         average_time=('execution_time', 'mean')
     ).reset_index()

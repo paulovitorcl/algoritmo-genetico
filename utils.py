@@ -17,3 +17,8 @@ def is_valid_individual(individual):
 def save_results_to_csv(df, filename):
     df.to_csv(filename, index=False)
 
+def generate_population_2(size):
+    return [{'chromosome': random.sample(range(10), 8), 'fitness': None} for _ in range(size)]
+
+def is_valid_individual_2(individual):
+    return len(set(individual['chromosome'])) == len(individual['chromosome'])  # Verifica se não há repetições

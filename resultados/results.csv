@@ -1,0 +1,601 @@
+selection_method,crossover_method,mutation_method,reinsertion_method,converged,execution_time,best_solution
+tournament,cyclic,swap,ordered,True,0.00929570198059082,"[7, 4, 2, 9, 0, 8, 1, 3]"
+tournament,cyclic,swap,ordered,True,0.01626420021057129,"[3, 8, 2, 1, 0, 4, 6, 9]"
+tournament,cyclic,swap,ordered,False,0.10416865348815918,
+tournament,cyclic,swap,ordered,True,0.052243709564208984,"[6, 5, 2, 4, 0, 7, 3, 9]"
+tournament,cyclic,swap,ordered,True,0.03839564323425293,"[6, 5, 2, 4, 0, 7, 3, 9]"
+tournament,cyclic,swap,ordered,False,0.09843850135803223,
+tournament,cyclic,swap,ordered,True,0.017381906509399414,"[6, 8, 5, 1, 0, 7, 3, 9]"
+tournament,cyclic,swap,ordered,False,0.14697885513305664,
+tournament,cyclic,swap,ordered,False,0.15224933624267578,
+tournament,cyclic,swap,ordered,True,0.025890827178955078,"[9, 5, 6, 7, 1, 0, 8, 2]"
+tournament,cyclic,swap,ordered,True,0.03739142417907715,"[9, 5, 6, 7, 1, 0, 8, 2]"
+tournament,cyclic,swap,ordered,True,0.04677748680114746,"[7, 4, 2, 9, 0, 8, 1, 3]"
+tournament,cyclic,swap,ordered,False,0.15207767486572266,
+tournament,cyclic,swap,ordered,False,0.14650893211364746,
+tournament,cyclic,swap,ordered,True,0.11720085144042969,"[6, 4, 1, 5, 0, 7, 3, 9]"
+tournament,cyclic,swap,ordered,False,0.1395399570465088,
+tournament,cyclic,swap,ordered,True,0.05096316337585449,"[6, 4, 1, 5, 0, 7, 3, 9]"
+tournament,cyclic,swap,ordered,False,0.13868045806884766,
+tournament,cyclic,swap,ordered,True,0.02690434455871582,"[7, 6, 4, 3, 0, 8, 2, 9]"
+tournament,cyclic,swap,ordered,False,0.1278514862060547,
+tournament,cyclic,swap,ordered,False,0.13377094268798828,
+tournament,cyclic,swap,ordered,True,0.03846454620361328,"[6, 4, 1, 5, 0, 7, 3, 9]"
+tournament,cyclic,swap,ordered,False,0.11867403984069824,
+tournament,cyclic,swap,ordered,True,0.11663031578063965,"[7, 6, 4, 3, 0, 8, 2, 9]"
+tournament,cyclic,swap,ordered,False,0.14733338356018066,
+tournament,cyclic,swap,ordered,True,0.016177654266357422,"[6, 8, 5, 1, 0, 7, 3, 9]"
+tournament,cyclic,swap,ordered,False,0.14380455017089844,
+tournament,cyclic,swap,ordered,True,0.0366060733795166,"[7, 4, 2, 9, 0, 8, 1, 3]"
+tournament,cyclic,swap,ordered,False,0.14074492454528809,
+tournament,cyclic,swap,ordered,True,0.014037847518920898,"[2, 8, 1, 7, 0, 3, 6, 5]"
+tournament,cyclic,swap,ordered,False,0.15044641494750977,
+tournament,cyclic,swap,ordered,True,0.0402531623840332,"[3, 8, 2, 1, 0, 4, 6, 9]"
+tournament,cyclic,swap,ordered,True,0.05242300033569336,"[6, 8, 5, 3, 0, 7, 2, 1]"
+tournament,cyclic,swap,ordered,False,0.13807010650634766,
+tournament,cyclic,swap,ordered,False,0.12912988662719727,
+tournament,cyclic,swap,ordered,False,0.11061549186706543,
+tournament,cyclic,swap,ordered,False,0.09666872024536133,
+tournament,cyclic,swap,ordered,False,0.14028263092041016,
+tournament,cyclic,swap,ordered,False,0.13172435760498047,
+tournament,cyclic,swap,ordered,False,0.12136435508728027,
+tournament,cyclic,swap,ordered,False,0.13336586952209473,
+tournament,cyclic,swap,ordered,False,0.14186906814575195,
+tournament,cyclic,swap,ordered,False,0.12304425239562988,
+tournament,cyclic,swap,ordered,True,0.09111428260803223,"[8, 5, 4, 2, 0, 9, 1, 7]"
+tournament,cyclic,swap,ordered,True,0.06783080101013184,"[7, 4, 2, 9, 0, 8, 1, 3]"
+tournament,cyclic,swap,ordered,False,0.15433263778686523,
+tournament,cyclic,swap,ordered,False,0.14914941787719727,
+tournament,cyclic,swap,ordered,True,0.0451810359954834,"[5, 8, 4, 9, 0, 6, 3, 7]"
+tournament,cyclic,swap,ordered,True,0.0333714485168457,"[2, 8, 1, 9, 0, 3, 6, 7]"
+tournament,cyclic,swap,ordered,False,0.1751999855041504,
+tournament,cyclic,swap,ordered,False,0.15249967575073242,
+tournament,cyclic,swap,ordered,False,0.1295027732849121,
+tournament,cyclic,swap,ordered,True,0.08312368392944336,"[7, 5, 3, 1, 0, 8, 2, 6]"
+tournament,cyclic,swap,ordered,False,0.11568522453308105,
+tournament,cyclic,swap,ordered,False,0.13994073867797852,
+tournament,cyclic,swap,ordered,True,0.035231590270996094,"[8, 3, 2, 4, 0, 9, 1, 7]"
+tournament,cyclic,swap,ordered,False,0.19595885276794434,
+tournament,cyclic,swap,ordered,False,0.13465642929077148,
+tournament,cyclic,swap,ordered,False,0.12736916542053223,
+tournament,cyclic,swap,ordered,True,0.01856851577758789,"[8, 4, 3, 2, 0, 9, 1, 6]"
+tournament,cyclic,swap,ordered,False,0.11997199058532715,
+tournament,cyclic,swap,ordered,False,0.12368941307067871,
+tournament,cyclic,swap,ordered,True,0.03713083267211914,"[5, 7, 3, 1, 0, 6, 4, 8]"
+tournament,cyclic,swap,ordered,False,0.1468513011932373,
+tournament,cyclic,swap,ordered,False,0.14726042747497559,
+tournament,cyclic,swap,ordered,False,0.12251091003417969,
+tournament,cyclic,swap,ordered,False,0.13841724395751953,
+tournament,cyclic,swap,ordered,False,0.1369304656982422,
+tournament,cyclic,swap,ordered,False,0.13913488388061523,
+tournament,cyclic,swap,ordered,False,0.12458968162536621,
+tournament,cyclic,swap,ordered,False,0.14624500274658203,
+tournament,cyclic,swap,ordered,False,0.13284611701965332,
+tournament,cyclic,swap,ordered,True,0.018540143966674805,"[7, 3, 1, 6, 0, 8, 2, 9]"
+tournament,cyclic,swap,ordered,True,0.029297828674316406,"[8, 4, 3, 2, 0, 9, 1, 6]"
+tournament,cyclic,swap,ordered,True,0.0200653076171875,"[2, 8, 1, 9, 0, 3, 6, 7]"
+tournament,cyclic,swap,ordered,False,0.1350409984588623,
+tournament,cyclic,swap,ordered,False,0.1277456283569336,
+tournament,cyclic,swap,ordered,False,0.1475212574005127,
+tournament,cyclic,swap,ordered,False,0.14375519752502441,
+tournament,cyclic,swap,ordered,True,0.036512136459350586,"[7, 6, 4, 3, 0, 8, 2, 9]"
+tournament,cyclic,swap,ordered,False,0.13214397430419922,
+tournament,cyclic,swap,ordered,False,0.16481971740722656,
+tournament,cyclic,swap,ordered,True,0.07833671569824219,"[6, 8, 5, 3, 0, 7, 2, 1]"
+tournament,cyclic,swap,ordered,True,0.04518771171569824,"[8, 3, 2, 4, 0, 9, 1, 7]"
+tournament,cyclic,swap,ordered,True,0.03798961639404297,"[7, 4, 2, 9, 0, 8, 1, 3]"
+tournament,cyclic,swap,ordered,False,0.13448238372802734,
+tournament,cyclic,swap,ordered,False,0.13282227516174316,
+tournament,cyclic,swap,ordered,False,0.1333928108215332,
+tournament,cyclic,swap,ordered,True,0.06889533996582031,"[8, 3, 2, 4, 0, 9, 1, 7]"
+tournament,cyclic,swap,ordered,True,0.025052785873413086,"[7, 5, 3, 4, 0, 8, 2, 9]"
+tournament,cyclic,swap,ordered,True,0.02849864959716797,"[7, 5, 3, 9, 0, 8, 1, 4]"
+tournament,cyclic,swap,ordered,False,0.11130690574645996,
+tournament,cyclic,swap,ordered,False,0.14342188835144043,
+tournament,cyclic,swap,ordered,False,0.1529674530029297,
+tournament,cyclic,swap,ordered,True,0.0435338020324707,"[3, 8, 2, 1, 0, 4, 6, 9]"
+tournament,cyclic,swap,ordered,False,0.15476393699645996,
+tournament,cyclic,swap,ordered,True,0.021770954132080078,"[6, 8, 5, 3, 0, 7, 2, 1]"
+tournament,cyclic,swap,ordered,False,0.16515064239501953,
+tournament,cyclic,swap,ordered,True,0.033066511154174805,"[3, 7, 1, 2, 0, 4, 6, 9]"
+tournament,cyclic,swap,ordered,True,0.024281978607177734,"[2, 8, 1, 9, 0, 3, 6, 7]"
+tournament,cyclic,swap,elitism,True,0.04007363319396973,"[6, 8, 5, 3, 0, 7, 2, 1]"
+tournament,cyclic,swap,elitism,False,0.12747883796691895,
+tournament,cyclic,swap,elitism,False,0.11810612678527832,
+tournament,cyclic,swap,elitism,False,0.13556432723999023,
+tournament,cyclic,swap,elitism,False,0.11113238334655762,
+tournament,cyclic,swap,elitism,False,0.11361861228942871,
+tournament,cyclic,swap,elitism,False,0.11790180206298828,
+tournament,cyclic,swap,elitism,False,0.10923290252685547,
+tournament,cyclic,swap,elitism,False,0.12565922737121582,
+tournament,cyclic,swap,elitism,True,0.016284704208374023,"[2, 8, 1, 7, 0, 3, 6, 5]"
+tournament,cyclic,swap,elitism,False,0.10842251777648926,
+tournament,cyclic,swap,elitism,False,0.10878133773803711,
+tournament,cyclic,swap,elitism,False,0.12517762184143066,
+tournament,cyclic,swap,elitism,False,0.12178730964660645,
+tournament,cyclic,swap,elitism,True,0.029039859771728516,"[7, 3, 1, 6, 0, 8, 2, 9]"
+tournament,cyclic,swap,elitism,False,0.13457846641540527,
+tournament,cyclic,swap,elitism,True,0.09789037704467773,"[7, 3, 1, 6, 0, 8, 2, 9]"
+tournament,cyclic,swap,elitism,False,0.13778162002563477,
+tournament,cyclic,swap,elitism,False,0.12577247619628906,
+tournament,cyclic,swap,elitism,False,0.13232159614562988,
+tournament,cyclic,swap,elitism,False,0.13364577293395996,
+tournament,cyclic,swap,elitism,False,0.18276691436767578,
+tournament,cyclic,swap,elitism,True,0.22572612762451172,"[5, 7, 3, 2, 0, 6, 4, 9]"
+tournament,cyclic,swap,elitism,False,0.18810510635375977,
+tournament,cyclic,swap,elitism,False,0.17480039596557617,
+tournament,cyclic,swap,elitism,False,0.17111921310424805,
+tournament,cyclic,swap,elitism,False,0.14966750144958496,
+tournament,cyclic,swap,elitism,False,0.18717241287231445,
+tournament,cyclic,swap,elitism,True,0.16106581687927246,"[7, 6, 4, 9, 0, 8, 1, 5]"
+tournament,cyclic,swap,elitism,False,0.18375420570373535,
+tournament,cyclic,swap,elitism,False,0.15662121772766113,
+tournament,cyclic,swap,elitism,False,0.14330720901489258,
+tournament,cyclic,swap,elitism,True,0.043504953384399414,"[7, 5, 3, 9, 0, 8, 1, 4]"
+tournament,cyclic,swap,elitism,False,0.24538207054138184,
+tournament,cyclic,swap,elitism,False,0.1916186809539795,
+tournament,cyclic,swap,elitism,False,0.17189812660217285,
+tournament,cyclic,swap,elitism,False,0.164780855178833,
+tournament,cyclic,swap,elitism,False,0.179887056350708,
+tournament,cyclic,swap,elitism,True,0.016436338424682617,"[6, 4, 1, 9, 0, 7, 2, 3]"
+tournament,cyclic,swap,elitism,False,0.17702889442443848,
+tournament,cyclic,swap,elitism,False,0.17107129096984863,
+tournament,cyclic,swap,elitism,False,0.1922011375427246,
+tournament,cyclic,swap,elitism,False,0.1578965187072754,
+tournament,cyclic,swap,elitism,False,0.20204615592956543,
+tournament,cyclic,swap,elitism,True,0.1560811996459961,"[7, 4, 2, 9, 0, 8, 1, 3]"
+tournament,cyclic,swap,elitism,True,0.053652048110961914,"[3, 7, 1, 2, 0, 4, 6, 9]"
+tournament,cyclic,swap,elitism,False,0.23218584060668945,
+tournament,cyclic,swap,elitism,True,0.0056340694427490234,"[6, 4, 1, 9, 0, 7, 2, 3]"
+tournament,cyclic,swap,elitism,False,0.23785853385925293,
+tournament,cyclic,swap,elitism,True,0.1467747688293457,"[5, 8, 4, 9, 0, 6, 3, 7]"
+tournament,cyclic,swap,elitism,False,0.16835236549377441,
+tournament,cyclic,swap,elitism,False,0.21623897552490234,
+tournament,cyclic,swap,elitism,True,0.141937255859375,"[5, 8, 4, 9, 0, 6, 3, 7]"
+tournament,cyclic,swap,elitism,False,0.18640470504760742,
+tournament,cyclic,swap,elitism,False,0.19053912162780762,
+tournament,cyclic,swap,elitism,False,0.18675947189331055,
+tournament,cyclic,swap,elitism,False,0.16260981559753418,
+tournament,cyclic,swap,elitism,False,0.27132225036621094,
+tournament,cyclic,swap,elitism,False,0.22155022621154785,
+tournament,cyclic,swap,elitism,False,0.2283768653869629,
+tournament,cyclic,swap,elitism,False,0.20278501510620117,
+tournament,cyclic,swap,elitism,False,0.16423296928405762,
+tournament,cyclic,swap,elitism,False,0.10803771018981934,
+tournament,cyclic,swap,elitism,True,0.017759323120117188,"[3, 8, 2, 9, 0, 4, 5, 7]"
+tournament,cyclic,swap,elitism,False,0.11297392845153809,
+tournament,cyclic,swap,elitism,True,0.038213253021240234,"[2, 8, 1, 7, 0, 3, 6, 5]"
+tournament,cyclic,swap,elitism,False,0.1674504280090332,
+tournament,cyclic,swap,elitism,False,0.17608118057250977,
+tournament,cyclic,swap,elitism,False,0.21834540367126465,
+tournament,cyclic,swap,elitism,True,0.016312122344970703,"[2, 8, 1, 7, 0, 3, 6, 5]"
+tournament,cyclic,swap,elitism,False,0.16896486282348633,
+tournament,cyclic,swap,elitism,True,0.033408164978027344,"[7, 5, 3, 1, 0, 8, 2, 6]"
+tournament,cyclic,swap,elitism,False,0.1602783203125,
+tournament,cyclic,swap,elitism,False,0.1501171588897705,
+tournament,cyclic,swap,elitism,False,0.19495439529418945,
+tournament,cyclic,swap,elitism,False,0.17983293533325195,
+tournament,cyclic,swap,elitism,True,0.02955341339111328,"[3, 8, 2, 9, 0, 4, 5, 7]"
+tournament,cyclic,swap,elitism,False,0.2568790912628174,
+tournament,cyclic,swap,elitism,False,0.2063610553741455,
+tournament,cyclic,swap,elitism,False,0.16497206687927246,
+tournament,cyclic,swap,elitism,True,0.05307316780090332,"[5, 7, 3, 2, 0, 6, 4, 9]"
+tournament,cyclic,swap,elitism,False,0.19936370849609375,
+tournament,cyclic,swap,elitism,False,0.21639776229858398,
+tournament,cyclic,swap,elitism,True,0.16666769981384277,"[7, 5, 3, 4, 0, 8, 2, 9]"
+tournament,cyclic,swap,elitism,False,0.22884845733642578,
+tournament,cyclic,swap,elitism,False,0.18166041374206543,
+tournament,cyclic,swap,elitism,True,0.17932796478271484,"[7, 6, 4, 9, 0, 8, 1, 5]"
+tournament,cyclic,swap,elitism,False,0.166900634765625,
+tournament,cyclic,swap,elitism,False,0.20330452919006348,
+tournament,cyclic,swap,elitism,False,0.20748543739318848,
+tournament,cyclic,swap,elitism,False,0.19233012199401855,
+tournament,cyclic,swap,elitism,True,0.0604093074798584,"[7, 5, 3, 1, 0, 8, 2, 6]"
+tournament,cyclic,swap,elitism,False,0.17378592491149902,
+tournament,cyclic,swap,elitism,False,0.17492413520812988,
+tournament,cyclic,swap,elitism,False,0.1527423858642578,
+tournament,cyclic,swap,elitism,True,0.006602287292480469,"[2, 8, 1, 7, 0, 3, 6, 5]"
+tournament,cyclic,swap,elitism,False,0.1449117660522461,
+tournament,cyclic,swap,elitism,False,0.15060997009277344,
+tournament,cyclic,swap,elitism,False,0.14823675155639648,
+tournament,cyclic,swap,elitism,False,0.16443943977355957,
+tournament,pmx,swap,ordered,False,0.19484210014343262,
+tournament,pmx,swap,ordered,False,0.20448064804077148,
+tournament,pmx,swap,ordered,False,0.24981021881103516,
+tournament,pmx,swap,ordered,False,0.18660998344421387,
+tournament,pmx,swap,ordered,False,0.20025968551635742,
+tournament,pmx,swap,ordered,False,0.3154013156890869,
+tournament,pmx,swap,ordered,False,0.2446138858795166,
+tournament,pmx,swap,ordered,False,0.1954202651977539,
+tournament,pmx,swap,ordered,False,0.21204710006713867,
+tournament,pmx,swap,ordered,True,0.05996417999267578,"[5, 7, 3, 2, 0, 6, 4, 9]"
+tournament,pmx,swap,ordered,False,0.20157980918884277,
+tournament,pmx,swap,ordered,False,0.20203685760498047,
+tournament,pmx,swap,ordered,False,0.1932058334350586,
+tournament,pmx,swap,ordered,True,0.032175302505493164,"[5, 8, 4, 9, 0, 6, 3, 7]"
+tournament,pmx,swap,ordered,False,0.21993207931518555,
+tournament,pmx,swap,ordered,False,0.19255661964416504,
+tournament,pmx,swap,ordered,False,0.16548585891723633,
+tournament,pmx,swap,ordered,False,0.17443585395812988,
+tournament,pmx,swap,ordered,False,0.23540449142456055,
+tournament,pmx,swap,ordered,False,0.18778657913208008,
+tournament,pmx,swap,ordered,False,0.2027428150177002,
+tournament,pmx,swap,ordered,False,0.19112181663513184,
+tournament,pmx,swap,ordered,True,0.019054412841796875,"[6, 4, 1, 9, 0, 7, 2, 3]"
+tournament,pmx,swap,ordered,False,0.21060776710510254,
+tournament,pmx,swap,ordered,True,0.07321906089782715,"[5, 7, 3, 1, 0, 6, 4, 8]"
+tournament,pmx,swap,ordered,True,0.09504461288452148,"[5, 8, 4, 9, 0, 6, 3, 7]"
+tournament,pmx,swap,ordered,True,0.08344864845275879,"[6, 8, 5, 1, 0, 7, 3, 9]"
+tournament,pmx,swap,ordered,True,0.3028686046600342,"[5, 7, 3, 2, 0, 6, 4, 9]"
+tournament,pmx,swap,ordered,False,0.2143421173095703,
+tournament,pmx,swap,ordered,True,0.05808877944946289,"[7, 6, 4, 9, 0, 8, 1, 5]"
+tournament,pmx,swap,ordered,True,0.15671896934509277,"[7, 5, 3, 1, 0, 8, 2, 6]"
+tournament,pmx,swap,ordered,False,0.19872403144836426,
+tournament,pmx,swap,ordered,False,0.21509599685668945,
+tournament,pmx,swap,ordered,True,0.12345004081726074,"[8, 5, 4, 2, 0, 9, 1, 7]"
+tournament,pmx,swap,ordered,False,0.282564640045166,
+tournament,pmx,swap,ordered,False,0.21750211715698242,
+tournament,pmx,swap,ordered,True,0.0057525634765625,"[7, 5, 3, 1, 0, 8, 2, 6]"
+tournament,pmx,swap,ordered,True,0.06612563133239746,"[5, 7, 3, 1, 0, 6, 4, 8]"
+tournament,pmx,swap,ordered,True,0.05736422538757324,"[2, 8, 1, 9, 0, 3, 6, 7]"
+tournament,pmx,swap,ordered,False,0.17815494537353516,
+tournament,pmx,swap,ordered,False,0.1867830753326416,
+tournament,pmx,swap,ordered,False,0.16949915885925293,
+tournament,pmx,swap,ordered,False,0.14918828010559082,
+tournament,pmx,swap,ordered,False,0.16702008247375488,
+tournament,pmx,swap,ordered,False,0.19343876838684082,
+tournament,pmx,swap,ordered,False,0.201462984085083,
+tournament,pmx,swap,ordered,False,0.1905505657196045,
+tournament,pmx,swap,ordered,False,0.19613170623779297,
+tournament,pmx,swap,ordered,True,0.04451608657836914,"[5, 7, 3, 2, 0, 6, 4, 9]"
+tournament,pmx,swap,ordered,True,0.08098387718200684,"[8, 4, 3, 2, 0, 9, 1, 6]"
+tournament,pmx,swap,ordered,True,0.07841014862060547,"[7, 6, 4, 3, 0, 8, 2, 9]"
+tournament,pmx,swap,ordered,True,0.10391807556152344,"[6, 8, 5, 1, 0, 7, 3, 9]"
+tournament,pmx,swap,ordered,True,0.09131979942321777,"[5, 7, 3, 2, 0, 6, 4, 9]"
+tournament,pmx,swap,ordered,True,0.050306081771850586,"[8, 5, 4, 2, 0, 9, 1, 7]"
+tournament,pmx,swap,ordered,True,0.06181168556213379,"[7, 5, 3, 4, 0, 8, 2, 9]"
+tournament,pmx,swap,ordered,False,0.1872861385345459,
+tournament,pmx,swap,ordered,False,0.19325685501098633,
+tournament,pmx,swap,ordered,False,0.18544387817382812,
+tournament,pmx,swap,ordered,False,0.25115299224853516,
+tournament,pmx,swap,ordered,True,0.08918237686157227,"[7, 5, 3, 4, 0, 8, 2, 9]"
+tournament,pmx,swap,ordered,True,0.08450961112976074,"[7, 4, 2, 9, 0, 8, 1, 3]"
+tournament,pmx,swap,ordered,False,0.21532440185546875,
+tournament,pmx,swap,ordered,False,0.20826244354248047,
+tournament,pmx,swap,ordered,False,0.21854591369628906,
+tournament,pmx,swap,ordered,False,0.44923901557922363,
+tournament,pmx,swap,ordered,False,0.14754390716552734,
+tournament,pmx,swap,ordered,False,0.14407134056091309,
+tournament,pmx,swap,ordered,True,0.009545564651489258,"[3, 8, 2, 1, 0, 4, 6, 9]"
+tournament,pmx,swap,ordered,True,0.06940507888793945,"[5, 8, 4, 9, 0, 6, 3, 7]"
+tournament,pmx,swap,ordered,True,0.05032849311828613,"[2, 8, 1, 9, 0, 3, 6, 7]"
+tournament,pmx,swap,ordered,False,0.20287346839904785,
+tournament,pmx,swap,ordered,False,0.18235540390014648,
+tournament,pmx,swap,ordered,True,0.05610942840576172,"[6, 4, 1, 5, 0, 7, 3, 9]"
+tournament,pmx,swap,ordered,False,0.20966696739196777,
+tournament,pmx,swap,ordered,False,0.2233891487121582,
+tournament,pmx,swap,ordered,False,0.22010254859924316,
+tournament,pmx,swap,ordered,True,0.012757062911987305,"[2, 8, 1, 9, 0, 3, 6, 7]"
+tournament,pmx,swap,ordered,True,0.0808095932006836,"[3, 7, 1, 9, 0, 4, 5, 6]"
+tournament,pmx,swap,ordered,False,0.2208545207977295,
+tournament,pmx,swap,ordered,False,0.21161508560180664,
+tournament,pmx,swap,ordered,False,0.20938587188720703,
+tournament,pmx,swap,ordered,True,0.1448211669921875,"[5, 8, 4, 9, 0, 6, 3, 7]"
+tournament,pmx,swap,ordered,False,0.19556236267089844,
+tournament,pmx,swap,ordered,True,0.03837180137634277,"[6, 4, 1, 9, 0, 7, 2, 3]"
+tournament,pmx,swap,ordered,True,0.1637575626373291,"[7, 4, 2, 9, 0, 8, 1, 3]"
+tournament,pmx,swap,ordered,True,0.06441783905029297,"[3, 7, 1, 9, 0, 4, 5, 6]"
+tournament,pmx,swap,ordered,False,0.14936399459838867,
+tournament,pmx,swap,ordered,False,0.14209675788879395,
+tournament,pmx,swap,ordered,False,0.15238714218139648,
+tournament,pmx,swap,ordered,False,0.22147727012634277,
+tournament,pmx,swap,ordered,False,0.22429203987121582,
+tournament,pmx,swap,ordered,False,0.27869129180908203,
+tournament,pmx,swap,ordered,False,0.1969890594482422,
+tournament,pmx,swap,ordered,True,0.0037724971771240234,"[6, 5, 2, 4, 0, 7, 3, 9]"
+tournament,pmx,swap,ordered,False,0.23425602912902832,
+tournament,pmx,swap,ordered,False,0.4491720199584961,
+tournament,pmx,swap,ordered,False,0.1858375072479248,
+tournament,pmx,swap,ordered,True,0.06408882141113281,"[8, 4, 3, 2, 0, 9, 1, 6]"
+tournament,pmx,swap,ordered,False,0.2424182891845703,
+tournament,pmx,swap,ordered,False,0.15959930419921875,
+tournament,pmx,swap,elitism,False,0.16972899436950684,
+tournament,pmx,swap,elitism,False,0.18816781044006348,
+tournament,pmx,swap,elitism,False,0.23420047760009766,
+tournament,pmx,swap,elitism,True,0.1083066463470459,"[8, 5, 4, 2, 0, 9, 1, 7]"
+tournament,pmx,swap,elitism,True,0.025665283203125,"[8, 5, 4, 2, 0, 9, 1, 7]"
+tournament,pmx,swap,elitism,True,0.1332073211669922,"[7, 5, 3, 1, 0, 8, 2, 6]"
+tournament,pmx,swap,elitism,True,0.05340218544006348,"[3, 8, 2, 9, 0, 4, 5, 7]"
+tournament,pmx,swap,elitism,False,0.24547433853149414,
+tournament,pmx,swap,elitism,False,0.21847963333129883,
+tournament,pmx,swap,elitism,False,0.20081067085266113,
+tournament,pmx,swap,elitism,False,0.18945908546447754,
+tournament,pmx,swap,elitism,False,0.19521284103393555,
+tournament,pmx,swap,elitism,True,0.04644298553466797,"[6, 4, 1, 5, 0, 7, 3, 9]"
+tournament,pmx,swap,elitism,False,0.19490814208984375,
+tournament,pmx,swap,elitism,False,0.18855714797973633,
+tournament,pmx,swap,elitism,False,0.20948314666748047,
+tournament,pmx,swap,elitism,False,0.2774641513824463,
+tournament,pmx,swap,elitism,False,0.3064749240875244,
+tournament,pmx,swap,elitism,True,0.15662431716918945,"[8, 4, 3, 2, 0, 9, 1, 6]"
+tournament,pmx,swap,elitism,False,0.28113484382629395,
+tournament,pmx,swap,elitism,True,0.11689972877502441,"[2, 8, 1, 7, 0, 3, 6, 5]"
+tournament,pmx,swap,elitism,True,0.169935941696167,"[7, 6, 4, 3, 0, 8, 2, 9]"
+tournament,pmx,swap,elitism,True,0.0691225528717041,"[2, 8, 1, 7, 0, 3, 6, 5]"
+tournament,pmx,swap,elitism,False,0.21254968643188477,
+tournament,pmx,swap,elitism,False,0.21950578689575195,
+tournament,pmx,swap,elitism,True,0.01826620101928711,"[5, 7, 3, 1, 0, 6, 4, 8]"
+tournament,pmx,swap,elitism,False,0.20141196250915527,
+tournament,pmx,swap,elitism,False,0.1349790096282959,
+tournament,pmx,swap,elitism,False,0.17133378982543945,
+tournament,pmx,swap,elitism,True,0.11193227767944336,"[6, 4, 1, 5, 0, 7, 3, 9]"
+tournament,pmx,swap,elitism,True,0.07135224342346191,"[3, 7, 1, 2, 0, 4, 6, 9]"
+tournament,pmx,swap,elitism,False,0.3018310070037842,
+tournament,pmx,swap,elitism,False,0.3574814796447754,
+tournament,pmx,swap,elitism,False,0.24558091163635254,
+tournament,pmx,swap,elitism,False,0.21745920181274414,
+tournament,pmx,swap,elitism,False,0.20656800270080566,
+tournament,pmx,swap,elitism,True,0.08141851425170898,"[8, 4, 3, 2, 0, 9, 1, 6]"
+tournament,pmx,swap,elitism,False,0.20912480354309082,
+tournament,pmx,swap,elitism,False,0.18873095512390137,
+tournament,pmx,swap,elitism,True,0.03772783279418945,"[2, 8, 1, 9, 0, 3, 6, 7]"
+tournament,pmx,swap,elitism,True,0.05713152885437012,"[5, 8, 4, 9, 0, 6, 3, 7]"
+tournament,pmx,swap,elitism,False,0.28426408767700195,
+tournament,pmx,swap,elitism,True,0.05190253257751465,"[7, 5, 3, 9, 0, 8, 1, 4]"
+tournament,pmx,swap,elitism,False,0.2803206443786621,
+tournament,pmx,swap,elitism,True,0.05436873435974121,"[6, 8, 5, 3, 0, 7, 2, 1]"
+tournament,pmx,swap,elitism,False,0.20149779319763184,
+tournament,pmx,swap,elitism,True,0.00981283187866211,"[6, 4, 1, 9, 0, 7, 2, 3]"
+tournament,pmx,swap,elitism,True,0.052190542221069336,"[2, 8, 1, 9, 0, 3, 6, 7]"
+tournament,pmx,swap,elitism,True,0.06756377220153809,"[6, 4, 1, 5, 0, 7, 3, 9]"
+tournament,pmx,swap,elitism,False,0.24497246742248535,
+tournament,pmx,swap,elitism,False,0.19454097747802734,
+tournament,pmx,swap,elitism,False,0.19189906120300293,
+tournament,pmx,swap,elitism,False,0.2440013885498047,
+tournament,pmx,swap,elitism,False,0.19244647026062012,
+tournament,pmx,swap,elitism,False,0.16611862182617188,
+tournament,pmx,swap,elitism,True,0.08577871322631836,"[6, 8, 5, 3, 0, 7, 2, 1]"
+tournament,pmx,swap,elitism,True,0.029579877853393555,"[6, 5, 2, 4, 0, 7, 3, 9]"
+tournament,pmx,swap,elitism,True,0.037954092025756836,"[3, 8, 2, 1, 0, 4, 6, 9]"
+tournament,pmx,swap,elitism,False,0.2037980556488037,
+tournament,pmx,swap,elitism,False,0.16131305694580078,
+tournament,pmx,swap,elitism,True,0.028490066528320312,"[7, 6, 4, 9, 0, 8, 1, 5]"
+tournament,pmx,swap,elitism,False,0.1832873821258545,
+tournament,pmx,swap,elitism,False,0.18182969093322754,
+tournament,pmx,swap,elitism,False,0.22452330589294434,
+tournament,pmx,swap,elitism,True,0.06749224662780762,"[8, 4, 3, 2, 0, 9, 1, 6]"
+tournament,pmx,swap,elitism,False,0.2047421932220459,
+tournament,pmx,swap,elitism,False,0.21041488647460938,
+tournament,pmx,swap,elitism,False,0.22785139083862305,
+tournament,pmx,swap,elitism,False,0.14905047416687012,
+tournament,pmx,swap,elitism,False,0.18291139602661133,
+tournament,pmx,swap,elitism,False,0.21959352493286133,
+tournament,pmx,swap,elitism,False,0.2532334327697754,
+tournament,pmx,swap,elitism,True,0.0361781120300293,"[6, 5, 2, 4, 0, 7, 3, 9]"
+tournament,pmx,swap,elitism,True,0.09875655174255371,"[7, 5, 3, 1, 0, 8, 2, 6]"
+tournament,pmx,swap,elitism,True,0.26855945587158203,"[7, 6, 4, 9, 0, 8, 1, 5]"
+tournament,pmx,swap,elitism,False,0.305509090423584,
+tournament,pmx,swap,elitism,True,0.05743527412414551,"[3, 8, 2, 1, 0, 4, 6, 9]"
+tournament,pmx,swap,elitism,False,0.22063231468200684,
+tournament,pmx,swap,elitism,False,0.2315371036529541,
+tournament,pmx,swap,elitism,True,0.13372111320495605,"[7, 5, 3, 1, 0, 8, 2, 6]"
+tournament,pmx,swap,elitism,True,0.04366016387939453,"[3, 8, 2, 1, 0, 4, 6, 9]"
+tournament,pmx,swap,elitism,False,0.17600440979003906,
+tournament,pmx,swap,elitism,True,0.1429440975189209,"[5, 8, 4, 9, 0, 6, 3, 7]"
+tournament,pmx,swap,elitism,False,0.18486785888671875,
+tournament,pmx,swap,elitism,False,0.22358298301696777,
+tournament,pmx,swap,elitism,False,0.2142963409423828,
+tournament,pmx,swap,elitism,False,0.29853105545043945,
+tournament,pmx,swap,elitism,False,0.23285150527954102,
+tournament,pmx,swap,elitism,False,0.19113373756408691,
+tournament,pmx,swap,elitism,False,0.3974142074584961,
+tournament,pmx,swap,elitism,True,0.18656086921691895,"[7, 5, 3, 9, 0, 8, 1, 4]"
+tournament,pmx,swap,elitism,False,0.19115543365478516,
+tournament,pmx,swap,elitism,False,0.1727449893951416,
+tournament,pmx,swap,elitism,True,0.04321622848510742,"[7, 6, 4, 3, 0, 8, 2, 9]"
+tournament,pmx,swap,elitism,False,0.18613386154174805,
+tournament,pmx,swap,elitism,False,0.24594736099243164,
+tournament,pmx,swap,elitism,False,0.1774137020111084,
+tournament,pmx,swap,elitism,False,0.22236943244934082,
+tournament,pmx,swap,elitism,False,0.2251453399658203,
+tournament,pmx,swap,elitism,True,0.057300567626953125,"[7, 5, 3, 9, 0, 8, 1, 4]"
+roulette,cyclic,swap,ordered,True,0.1690821647644043,"[8, 3, 2, 4, 0, 9, 1, 7]"
+roulette,cyclic,swap,ordered,False,0.2584691047668457,
+roulette,cyclic,swap,ordered,False,0.2561774253845215,
+roulette,cyclic,swap,ordered,False,0.34699511528015137,
+roulette,cyclic,swap,ordered,False,0.33931589126586914,
+roulette,cyclic,swap,ordered,False,0.27701497077941895,
+roulette,cyclic,swap,ordered,False,0.2505199909210205,
+roulette,cyclic,swap,ordered,False,0.23828959465026855,
+roulette,cyclic,swap,ordered,False,0.2462315559387207,
+roulette,cyclic,swap,ordered,False,0.2793276309967041,
+roulette,cyclic,swap,ordered,False,0.34099364280700684,
+roulette,cyclic,swap,ordered,False,0.3909485340118408,
+roulette,cyclic,swap,ordered,True,0.27623558044433594,"[5, 7, 3, 1, 0, 6, 4, 8]"
+roulette,cyclic,swap,ordered,False,0.22956466674804688,
+roulette,cyclic,swap,ordered,True,0.08298587799072266,"[6, 4, 1, 9, 0, 7, 2, 3]"
+roulette,cyclic,swap,ordered,False,0.2961108684539795,
+roulette,cyclic,swap,ordered,False,0.33101797103881836,
+roulette,cyclic,swap,ordered,False,0.3274421691894531,
+roulette,cyclic,swap,ordered,False,0.28830528259277344,
+roulette,cyclic,swap,ordered,False,0.2892179489135742,
+roulette,cyclic,swap,ordered,False,0.3343322277069092,
+roulette,cyclic,swap,ordered,False,0.3340613842010498,
+roulette,cyclic,swap,ordered,False,0.34653759002685547,
+roulette,cyclic,swap,ordered,False,0.29746150970458984,
+roulette,cyclic,swap,ordered,False,0.312755823135376,
+roulette,cyclic,swap,ordered,False,0.376293420791626,
+roulette,cyclic,swap,ordered,True,0.25643181800842285,"[2, 8, 1, 7, 0, 3, 6, 5]"
+roulette,cyclic,swap,ordered,False,0.31615257263183594,
+roulette,cyclic,swap,ordered,False,0.26653194427490234,
+roulette,cyclic,swap,ordered,False,0.3290398120880127,
+roulette,cyclic,swap,ordered,False,0.4442787170410156,
+roulette,cyclic,swap,ordered,False,0.322432279586792,
+roulette,cyclic,swap,ordered,False,0.34041404724121094,
+roulette,cyclic,swap,ordered,False,0.2828238010406494,
+roulette,cyclic,swap,ordered,False,0.33257555961608887,
+roulette,cyclic,swap,ordered,False,0.25986456871032715,
+roulette,cyclic,swap,ordered,False,0.2884843349456787,
+roulette,cyclic,swap,ordered,True,0.3452632427215576,"[8, 3, 2, 4, 0, 9, 1, 7]"
+roulette,cyclic,swap,ordered,True,0.3124415874481201,"[8, 5, 4, 2, 0, 9, 1, 7]"
+roulette,cyclic,swap,ordered,False,0.2774829864501953,
+roulette,cyclic,swap,ordered,False,0.26174139976501465,
+roulette,cyclic,swap,ordered,False,0.30606794357299805,
+roulette,cyclic,swap,ordered,False,0.3320629596710205,
+roulette,cyclic,swap,ordered,False,0.36144280433654785,
+roulette,cyclic,swap,ordered,False,0.3236386775970459,
+roulette,cyclic,swap,ordered,False,0.36841297149658203,
+roulette,cyclic,swap,ordered,False,0.3241922855377197,
+roulette,cyclic,swap,ordered,False,0.44000911712646484,
+roulette,cyclic,swap,ordered,False,0.30674242973327637,
+roulette,cyclic,swap,ordered,True,0.1944596767425537,"[2, 8, 1, 9, 0, 3, 6, 7]"
+roulette,cyclic,swap,ordered,False,0.4400367736816406,
+roulette,cyclic,swap,ordered,False,0.4717414379119873,
+roulette,cyclic,swap,ordered,True,0.08825087547302246,"[7, 3, 1, 6, 0, 8, 2, 9]"
+roulette,cyclic,swap,ordered,False,0.3151886463165283,
+roulette,cyclic,swap,ordered,False,0.22481322288513184,
+roulette,cyclic,swap,ordered,False,0.2420511245727539,
+roulette,cyclic,swap,ordered,False,0.5032649040222168,
+roulette,cyclic,swap,ordered,False,0.3060271739959717,
+roulette,cyclic,swap,ordered,False,0.2587292194366455,
+roulette,cyclic,swap,ordered,False,0.2720775604248047,
+roulette,cyclic,swap,ordered,False,0.31803369522094727,
+roulette,cyclic,swap,ordered,False,0.291806697845459,
+roulette,cyclic,swap,ordered,False,0.34644460678100586,
+roulette,cyclic,swap,ordered,False,0.3692293167114258,
+roulette,cyclic,swap,ordered,False,0.35862064361572266,
+roulette,cyclic,swap,ordered,False,0.2223658561706543,
+roulette,cyclic,swap,ordered,False,0.29122138023376465,
+roulette,cyclic,swap,ordered,False,0.331923246383667,
+roulette,cyclic,swap,ordered,False,0.309783935546875,
+roulette,cyclic,swap,ordered,False,0.3004021644592285,
+roulette,cyclic,swap,ordered,False,0.36289215087890625,
+roulette,cyclic,swap,ordered,False,0.518303632736206,
+roulette,cyclic,swap,ordered,False,0.2920370101928711,
+roulette,cyclic,swap,ordered,False,0.35222339630126953,
+roulette,cyclic,swap,ordered,False,0.3417937755584717,
+roulette,cyclic,swap,ordered,False,0.31700611114501953,
+roulette,cyclic,swap,ordered,False,0.2984476089477539,
+roulette,cyclic,swap,ordered,False,0.27854013442993164,
+roulette,cyclic,swap,ordered,False,0.27288007736206055,
+roulette,cyclic,swap,ordered,False,0.301971435546875,
+roulette,cyclic,swap,ordered,False,0.3104057312011719,
+roulette,cyclic,swap,ordered,True,0.24323749542236328,"[3, 7, 1, 2, 0, 4, 6, 9]"
+roulette,cyclic,swap,ordered,False,0.3032069206237793,
+roulette,cyclic,swap,ordered,False,0.34350085258483887,
+roulette,cyclic,swap,ordered,False,0.32274317741394043,
+roulette,cyclic,swap,ordered,False,0.2812209129333496,
+roulette,cyclic,swap,ordered,False,0.34671568870544434,
+roulette,cyclic,swap,ordered,False,0.42813730239868164,
+roulette,cyclic,swap,ordered,False,0.4335956573486328,
+roulette,cyclic,swap,ordered,False,0.3126380443572998,
+roulette,cyclic,swap,ordered,False,0.2683231830596924,
+roulette,cyclic,swap,ordered,False,0.25295567512512207,
+roulette,cyclic,swap,ordered,False,0.2845034599304199,
+roulette,cyclic,swap,ordered,False,0.2728004455566406,
+roulette,cyclic,swap,ordered,False,0.31181955337524414,
+roulette,cyclic,swap,ordered,False,0.28036046028137207,
+roulette,cyclic,swap,ordered,False,0.26318907737731934,
+roulette,cyclic,swap,ordered,False,0.2415320873260498,
+roulette,cyclic,swap,ordered,False,0.3196089267730713,
+roulette,cyclic,swap,ordered,False,0.2376267910003662,
+roulette,cyclic,swap,elitism,False,0.26009345054626465,
+roulette,cyclic,swap,elitism,False,0.29061079025268555,
+roulette,cyclic,swap,elitism,False,0.2935066223144531,
+roulette,cyclic,swap,elitism,False,0.26936864852905273,
+roulette,cyclic,swap,elitism,False,0.2796778678894043,
+roulette,cyclic,swap,elitism,True,0.2018134593963623,"[6, 4, 1, 5, 0, 7, 3, 9]"
+roulette,cyclic,swap,elitism,False,0.4150352478027344,
+roulette,cyclic,swap,elitism,False,0.36544132232666016,
+roulette,cyclic,swap,elitism,True,0.22916364669799805,"[5, 7, 3, 1, 0, 6, 4, 8]"
+roulette,cyclic,swap,elitism,False,0.2584688663482666,
+roulette,cyclic,swap,elitism,False,0.2801022529602051,
+roulette,cyclic,swap,elitism,False,0.2779691219329834,
+roulette,cyclic,swap,elitism,False,0.2917306423187256,
+roulette,cyclic,swap,elitism,False,0.30477380752563477,
+roulette,cyclic,swap,elitism,False,0.2639133930206299,
+roulette,cyclic,swap,elitism,False,0.26578831672668457,
+roulette,cyclic,swap,elitism,False,0.2689540386199951,
+roulette,cyclic,swap,elitism,False,0.2717452049255371,
+roulette,cyclic,swap,elitism,False,0.28540992736816406,
+roulette,cyclic,swap,elitism,False,0.29910850524902344,
+roulette,cyclic,swap,elitism,False,0.3346140384674072,
+roulette,cyclic,swap,elitism,False,0.2691187858581543,
+roulette,cyclic,swap,elitism,False,0.26363158226013184,
+roulette,cyclic,swap,elitism,False,0.3119330406188965,
+roulette,cyclic,swap,elitism,False,0.2553822994232178,
+roulette,cyclic,swap,elitism,False,0.2921478748321533,
+roulette,cyclic,swap,elitism,False,0.2497406005859375,
+roulette,cyclic,swap,elitism,False,0.2606968879699707,
+roulette,cyclic,swap,elitism,False,0.29364466667175293,
+roulette,cyclic,swap,elitism,False,0.2484135627746582,
+roulette,cyclic,swap,elitism,False,0.27402806282043457,
+roulette,cyclic,swap,elitism,False,0.33559417724609375,
+roulette,cyclic,swap,elitism,False,0.23203635215759277,
+roulette,cyclic,swap,elitism,False,0.2436528205871582,
+roulette,cyclic,swap,elitism,True,0.1936640739440918,"[2, 8, 1, 7, 0, 3, 6, 5]"
+roulette,cyclic,swap,elitism,False,0.2480602264404297,
+roulette,cyclic,swap,elitism,False,0.26109933853149414,
+roulette,cyclic,swap,elitism,False,0.26236438751220703,
+roulette,cyclic,swap,elitism,False,0.2890148162841797,
+roulette,cyclic,swap,elitism,False,0.2593674659729004,
+roulette,cyclic,swap,elitism,False,0.2834646701812744,
+roulette,cyclic,swap,elitism,False,0.25615358352661133,
+roulette,cyclic,swap,elitism,False,0.2522857189178467,
+roulette,cyclic,swap,elitism,False,0.326657772064209,
+roulette,cyclic,swap,elitism,False,0.24921751022338867,
+roulette,cyclic,swap,elitism,False,0.3266642093658447,
+roulette,cyclic,swap,elitism,False,0.3380396366119385,
+roulette,cyclic,swap,elitism,False,0.2583601474761963,
+roulette,cyclic,swap,elitism,False,0.24496984481811523,
+roulette,cyclic,swap,elitism,False,0.21016311645507812,
+roulette,cyclic,swap,elitism,True,0.22208476066589355,"[6, 4, 1, 5, 0, 7, 3, 9]"
+roulette,cyclic,swap,elitism,False,0.26607704162597656,
+roulette,cyclic,swap,elitism,False,0.25713133811950684,
+roulette,cyclic,swap,elitism,False,0.2626216411590576,
+roulette,cyclic,swap,elitism,False,0.23378562927246094,
+roulette,cyclic,swap,elitism,False,0.2492513656616211,
+roulette,cyclic,swap,elitism,False,0.3033883571624756,
+roulette,cyclic,swap,elitism,False,0.3441345691680908,
+roulette,cyclic,swap,elitism,False,0.31333374977111816,
+roulette,cyclic,swap,elitism,False,0.26578688621520996,
+roulette,cyclic,swap,elitism,False,0.28446078300476074,
+roulette,cyclic,swap,elitism,False,0.3122372627258301,
+roulette,cyclic,swap,elitism,False,0.2560873031616211,
+roulette,cyclic,swap,elitism,False,0.2876298427581787,
+roulette,cyclic,swap,elitism,False,0.3128798007965088,
+roulette,cyclic,swap,elitism,False,0.2749929428100586,
+roulette,cyclic,swap,elitism,False,0.2616732120513916,
+roulette,cyclic,swap,elitism,False,0.27335190773010254,
+roulette,cyclic,swap,elitism,False,0.26773762702941895,
+roulette,cyclic,swap,elitism,False,0.2950003147125244,
+roulette,cyclic,swap,elitism,False,0.262256383895874,
+roulette,cyclic,swap,elitism,False,0.26758575439453125,
+roulette,cyclic,swap,elitism,False,0.27551960945129395,
+roulette,cyclic,swap,elitism,False,0.23364782333374023,
+roulette,cyclic,swap,elitism,True,0.07115793228149414,"[7, 6, 4, 9, 0, 8, 1, 5]"
+roulette,cyclic,swap,elitism,False,0.2749817371368408,
+roulette,cyclic,swap,elitism,False,0.2782878875732422,
+roulette,cyclic,swap,elitism,False,0.24136853218078613,
+roulette,cyclic,swap,elitism,False,0.25700831413269043,
+roulette,cyclic,swap,elitism,False,0.25963354110717773,
+roulette,cyclic,swap,elitism,False,0.2706124782562256,
+roulette,cyclic,swap,elitism,False,0.22270917892456055,
+roulette,cyclic,swap,elitism,False,0.22125458717346191,
+roulette,cyclic,swap,elitism,False,0.2091844081878662,
+roulette,cyclic,swap,elitism,False,0.2792072296142578,
+roulette,cyclic,swap,elitism,False,0.2529714107513428,
+roulette,cyclic,swap,elitism,False,0.2462921142578125,
+roulette,cyclic,swap,elitism,False,0.27927112579345703,
+roulette,cyclic,swap,elitism,False,0.31261277198791504,
+roulette,cyclic,swap,elitism,False,0.24708914756774902,
+roulette,cyclic,swap,elitism,False,0.23955821990966797,
+roulette,cyclic,swap,elitism,False,0.24804973602294922,
+roulette,cyclic,swap,elitism,False,0.3650987148284912,
+roulette,cyclic,swap,elitism,False,0.3059999942779541,
+roulette,cyclic,swap,elitism,False,0.24067282676696777,
+roulette,cyclic,swap,elitism,False,0.2429664134979248,
+roulette,cyclic,swap,elitism,False,0.3167884349822998,
+roulette,cyclic,swap,elitism,False,0.2529110908508301,
+roulette,cyclic,swap,elitism,False,0.23529505729675293,
+roulette,cyclic,swap,elitism,False,0.284717321395874,
